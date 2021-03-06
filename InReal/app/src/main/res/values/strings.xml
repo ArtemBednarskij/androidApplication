@@ -1,0 +1,47 @@
+<resources>
+    <string name="create_order">Create Order</string>
+    <string name="create_order_title">Create Order</string>
+    <string name="get_back">Fuck, go back</string>
+    <string name="action_share">Share</string>
+    <string name="drink_activity">Drinks</string>
+    <string name="food_activity">Foods</string>
+    <string name="drink_category_activity">Drink Categories</string>
+    <string name="food_category_activity">Food Categories</string>
+    <string name="title_top">Top fragment</string>
+    <string name="app_name">InReal</string>
+    <string name="in_real_logo">InReal logo</string>
+    <string name="ar_button">see in AR</string>
+
+    <string name="soup">soup</string>
+
+    <string name="home_tab">Home</string>
+    <string name="pizza_tab">Pizza</string>
+    <string name="burger_tab">Burger</string>
+    <string name="soup_tab">Soup</string>
+    <string name="coffee_tab">Coffee</string>
+
+    <string-array name="pizzas">
+        <item>Pepperoni</item>
+    </string-array>
+
+    <string-array name="burgers">
+        <item>Cheeseburger</item>
+    </string-array>
+
+    <string-array name="coffee">
+        <item>Latte</item>
+        <item>Cappuccino</item>
+        <item>Filter</item>
+    </string-array>
+
+    <string-array name="soups">
+        <item>Tom Yam</item>
+    </string-array>
+
+    <string-array name="list_options">
+
+        <item>Drinks</item>
+        <item>Food</item>
+    </string-array>
+
+</resources>
